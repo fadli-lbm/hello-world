@@ -1,0 +1,19 @@
+{
+    "name": "fadli-lbm/hello-world",
+    "description": "Belajar membuat library",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "FadliLbm\\HelloWorld\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "fadli hermawan",
+            "email": "fadli.hermawan@lbm.co.id"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
